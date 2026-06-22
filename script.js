@@ -1,6 +1,6 @@
 const supportedLanguages = ["en", "fr"];
 const dictionaryCache = new Map();
-let activeLanguage = "en";
+let activeLanguage = "fr";
 
 const getValue = (source, path) => path.split(".").reduce((acc, key) => acc?.[key], source);
 
@@ -19,7 +19,7 @@ const loadDictionary = async (lang) => {
   return dictionary;
 };
 
-const resolveLanguage = (lang) => (supportedLanguages.includes(lang) ? lang : "en");
+const resolveLanguage = (lang) => (supportedLanguages.includes(lang) ? lang : "fr");
 
 const resolveInitialLanguage = () => {
   const urlLanguage = new URLSearchParams(window.location.search).get("lang");
@@ -91,15 +91,18 @@ const renderReviews = (items = []) => {
   const target = document.querySelector("[data-reviews]");
   target.innerHTML = items
     .map(
-      (item) => `
+      (item) => {
+        const rating = item.rating || 5;
+        return `
         <article class="review-card">
-          <div class="review-stars" aria-label="${item.rating || 5} out of 5 stars">
-            ${renderStars(item.rating)}
+          <div class="review-stars" aria-label="${rating}/5">
+            ${renderStars(rating)}
           </div>
           <blockquote>"${item.quote}"</blockquote>
           <cite>${item.author}</cite>
         </article>
-      `,
+      `;
+      },
     )
     .join("");
 };
