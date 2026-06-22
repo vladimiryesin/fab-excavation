@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "services": "Services",
+    "projects": "Projets",
+    "reviews": "Témoignages",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "RBQ 5700-4905-01 | Laval et grande région de Montréal",
+    "title": "Excavation et travaux de fondation exécutés avec précision.",
+    "copy": "Drain français, imperméabilisation, réparation de fissures, décontamination de la pyrite, entrée d'eau et solutions contre l'ocre ferreuse.",
+    "primary": "Obtenir une soumission gratuite",
+    "secondary": "Voir les services"
+  },
+  "trust": {
+    "years": {
+      "value": "10+ ans",
+      "label": "d'expérience en excavation"
+    },
+    "licensed": {
+      "value": "Licence RBQ",
+      "label": "entrepreneur autorisé"
+    },
+    "guaranteed": {
+      "value": "Travaux garantis",
+      "label": "qualité d'exécution"
+    }
+  },
+  "intro": {
+    "eyebrow": "Pensé pour les propriétaires",
+    "title": "Diagnostic clair. Exécution propre. Réparations durables.",
+    "copy": "FAB Excavation se spécialise dans les travaux d'excavation, d'imperméabilisation de fondations, de construction, de rénovation et de drainage à Laval et dans la grande région de Montréal. Que ce soit pour l'installation d'un drain français, la réparation de fissures, la décontamination de la pyrite ou un projet d'excavation sur mesure, l'équipe livre un travail soigné selon des normes de qualité élevées."
+  },
+  "services": {
+    "eyebrow": "Spécialités",
+    "title": "Services de fondation et de drainage",
+    "items": [
+      {
+        "title": "Drain français",
+        "image": "assets/img/accueil_drain.jpg",
+        "copy": "Installation ou remplacement de qualité pour éloigner l'eau de la fondation par gravité ou par pompage.",
+        "symptoms": ["Infiltration", "Humidité", "Efflorescence"]
+      },
+      {
+        "title": "Fissures de béton",
+        "image": "assets/img/accueil_fissures.jpg",
+        "copy": "Réparation par l'extérieur et imperméabilisation selon le type de fondation et les conditions du terrain.",
+        "symptoms": ["Fissures visibles", "Eau au sous-sol", "Pression du sol"]
+      },
+      {
+        "title": "Décontamination de la pyrite",
+        "image": "assets/img/accueil_pyrite.jpg",
+        "copy": "Retrait du remblai contaminé et remplacement par de la pierre concassée certifiée DB.",
+        "symptoms": ["Dalle gonflée", "Fissures en étoile", "Garage endommagé"]
+      },
+      {
+        "title": "Entrée d'eau",
+        "image": "assets/img/accueil_coupe.jpg",
+        "copy": "Réparation et remplacement des conduites souterraines entre la maison et la boîte de service.",
+        "symptoms": ["Conduite d'eau", "Excavation extérieure", "Branchement municipal"]
+      },
+      {
+        "title": "Ocre ferreuse",
+        "image": "assets/img/accueil_occre.jpg",
+        "copy": "Diagnostic et plan de correction pour les dépôts rougeâtres qui peuvent obstruer le système de drainage.",
+        "symptoms": ["Dépôt rougeâtre", "Drain bloqué", "Eau stagnante"]
+      }
+    ]
+  },
+  "solution": {
+    "eyebrow": "L'approche FAB Excavation",
+    "title": "Un processus concret, de l'inspection au remblai.",
+    "steps": [
+      {
+        "title": "Inspecter",
+          "copy": "Identifier les symptômes, le type de sol et les contraintes d'accès avant de proposer les travaux."
+      },
+      {
+        "title": "Protéger",
+          "copy": "Planifier l'excavation autour de la propriété, des services souterrains et de l'aménagement."
+      },
+      {
+        "title": "Réparer",
+          "copy": "Installer, imperméabiliser, remblayer et laisser un chantier propre, prêt pour la suite."
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Réalisations",
+    "title": "Travaux récents de fondation et de drainage",
+    "items": [
+      {
+        "title": "Excavation de fondation",
+        "image": "assets/img/640_Excavation.jpg"
+      },
+      {
+        "title": "Installation de drain français",
+        "image": "assets/img/640_Drain_11.jpg"
+      },
+      {
+        "title": "Pierre de drainage et membrane d'étanchéité",
+        "image": "assets/img/640_Drain_12.jpg"
+      },
+      {
+        "title": "Préparation d'une fissure",
+        "image": "assets/img/640_Fissure_2.jpg"
+      },
+      {
+        "title": "Décontamination de la pyrite",
+        "image": "assets/img/640_Pyrite2.jpg"
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "Témoignages",
+    "title": "Les clients soulignent la diligence, la clarté et le suivi.",
+    "items": [
+      {
+        "rating": 5,
+        "quote": "Vous avez livré la marchandise. Nous avons apprécié votre force de travail, votre sourire, votre politesse et votre sens de la clientèle.",
+        "author": "Martine et Jean-Guy"
+      },
+      {
+        "rating": 5,
+        "quote": "Notre projet de rénovation a été une expérience couronnée de succès. Merci pour le service remarquable et le travail accompli.",
+        "author": "Anne-Marie"
+      },
+      {
+        "rating": 5,
+        "quote": "FAB Excavation a livré la marchandise. Fabrice répond au téléphone, est agréable, ponctuel et comprend les contraintes du projet.",
+        "author": "Pierre-Antoine"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Soumission gratuite",
+    "title": "Expliquez-nous ce qui se passe autour de votre fondation.",
+    "copy": "Indiquez les symptômes, l'adresse de la propriété et le meilleur moment pour vous joindre. En cas d'infiltration urgente, l'appel demeure le moyen le plus rapide.",
+    "phoneLabel": "Téléphone",
+    "emailLabel": "Courriel",
+    "addressLabel": "Adresse",
+    "address": "3174 rue Christiane, Laval, Québec, H7P 1K1"
+  },
+  "form": {
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "Courriel",
+    "message": "Message",
+    "submit": "Demander une soumission",
+    "note": "Un membre de l'équipe analysera votre demande et communiquera avec vous pour planifier une inspection ou préparer une soumission."
+  },
+  "footer": {
+    "serviceArea": "Laval et grande région de Montréal"
+  }
+}

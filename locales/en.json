@@ -1,0 +1,155 @@
+{
+  "nav": {
+    "services": "Services",
+    "projects": "Projects",
+    "reviews": "Reviews",
+    "contact": "Contact"
+  },
+  "hero": {
+    "eyebrow": "RBQ 5700-4905-01 | Laval and Greater Montreal",
+    "title": "Excavation and foundation work handled with precision.",
+    "copy": "French drains, waterproofing, crack repair, pyrite removal, water service and iron bacteria solutions for residential properties.",
+    "primary": "Get a free estimate",
+    "secondary": "Explore services"
+  },
+  "trust": {
+    "years": {
+      "value": "10+ years",
+      "label": "of excavation experience"
+    },
+    "licensed": {
+      "value": "Licensed",
+      "label": "RBQ contractor"
+    },
+    "guaranteed": {
+      "value": "Guaranteed",
+      "label": "quality workmanship"
+    }
+  },
+  "intro": {
+    "eyebrow": "Built for homeowners",
+    "title": "Clear diagnostics. Clean execution. Durable repairs.",
+    "copy": "FAB Excavation specializes in excavation, foundation waterproofing, construction renovation and drainage work across Laval and Greater Montreal. Whether you need a French drain, crack repair, pyrite removal or a custom excavation project, the team delivers careful work to high quality standards."
+  },
+  "services": {
+    "eyebrow": "Specialties",
+    "title": "Foundation and drainage services",
+    "items": [
+      {
+        "title": "French drain",
+        "image": "assets/img/accueil_drain.jpg",
+        "copy": "High-quality installation or replacement to move water away from the foundation by gravity or pump.",
+        "symptoms": ["Water seepage", "Humidity", "Efflorescence"]
+      },
+      {
+        "title": "Concrete crack repair",
+        "image": "assets/img/accueil_fissures.jpg",
+        "copy": "Exterior crack repair and waterproofing methods adapted to the foundation and soil conditions.",
+        "symptoms": ["Visible cracks", "Water infiltration", "Foundation pressure"]
+      },
+      {
+        "title": "Pyrite removal",
+        "image": "assets/img/accueil_pyrite.jpg",
+        "copy": "Removal of contaminated fill and slab replacement with DB-certified crushed stone.",
+        "symptoms": ["Raised slab", "Star cracks", "Garage floor damage"]
+      },
+      {
+        "title": "Water supply",
+        "image": "assets/img/accueil_coupe.jpg",
+        "copy": "Repair and replacement of underground water service lines from the home to the service box.",
+        "symptoms": ["Supply line issue", "Exterior excavation", "Municipal connection"]
+      },
+      {
+        "title": "Iron bacteria",
+        "image": "assets/img/accueil_occre.jpg",
+        "copy": "Diagnosis and remediation planning for reddish deposits that can block drainage systems.",
+        "symptoms": ["Reddish mud", "Blocked drain", "Standing water"]
+      }
+    ]
+  },
+  "solution": {
+    "eyebrow": "The FAB Excavation approach",
+    "title": "A practical process from inspection to backfill.",
+    "steps": [
+      {
+        "title": "Inspect",
+        "copy": "Identify symptoms, soil and access constraints before proposing the repair path."
+      },
+      {
+        "title": "Protect",
+        "copy": "Plan excavation around the property, utilities and landscaping with a clean work zone."
+      },
+      {
+        "title": "Repair",
+        "copy": "Install, waterproof, backfill and leave the site ready for the next stage."
+      }
+    ]
+  },
+  "projects": {
+    "eyebrow": "Project work",
+    "title": "Recent foundation and drainage work",
+    "items": [
+      {
+        "title": "Foundation excavation",
+        "image": "assets/img/640_Excavation.jpg"
+      },
+      {
+        "title": "French drain installation",
+        "image": "assets/img/640_Drain_11.jpg"
+      },
+      {
+        "title": "Drainage stone and membrane",
+        "image": "assets/img/640_Drain_12.jpg"
+      },
+      {
+        "title": "Crack repair preparation",
+        "image": "assets/img/640_Fissure_2.jpg"
+      },
+      {
+        "title": "Pyrite remediation",
+        "image": "assets/img/640_Pyrite2.jpg"
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "Testimonials",
+    "title": "Clients mention diligence, clarity and follow-through.",
+    "items": [
+      {
+        "rating": 5,
+        "quote": "You delivered. Your team never gave up, and we appreciated their work ethic, smiles, politeness and customer service.",
+        "author": "Martine and Jean-Guy"
+      },
+      {
+        "rating": 5,
+        "quote": "The project was a successful renovation experience. Thank you for the remarkable service and hard work.",
+        "author": "Anne-Marie"
+      },
+      {
+        "rating": 5,
+        "quote": "FAB Excavation delivered the goods. Fabrice answers the phone, is pleasant, on time and understood the constraints of my project.",
+        "author": "Pierre-Antoine"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Free estimate",
+    "title": "Tell us what is happening around the foundation.",
+    "copy": "Share the symptoms, property location, and the best time to reach you. For urgent water infiltration, calling is the fastest route.",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "addressLabel": "Address",
+    "address": "3174 Christiane street, Laval, Quebec, H7P 1K1"
+  },
+  "form": {
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "message": "Message",
+    "submit": "Request estimate",
+    "note": "A member of the team will review your request and follow up to schedule an inspection or estimate."
+  },
+  "footer": {
+    "serviceArea": "Laval and Greater Montreal"
+  }
+}
